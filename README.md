@@ -1,2 +1,2 @@
-# unityexample
+# UnityExample
 Example project
