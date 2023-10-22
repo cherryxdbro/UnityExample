@@ -1,3 +1,3 @@
 # UnityExample
 
-Example project
+Game for entertainment
